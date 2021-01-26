@@ -16,11 +16,11 @@
     "fb_inter": ""
   },
   "app_exists": {
-    "id": "com.king.candycrushsaga",
-    "is_exists": true,
+    "id": "com.guide.io.game.snakezone.worm",
+    "is_exists": false,
     "is_show_more": true,
     "isLoading": false,
-    "isShowAds": true,
+    "isShowAds": false,
     "onlyAdsMe": false,
     "isShowInApp":false,
     "bg": "https://play-lh.googleusercontent.com/8gaz8rbPJ7hCtl-kU1mQwm04-awVv5TDSJjEfmEKRDp1hipKn2nlRmLKEmSDib7uqCk=w1440-h620-rw"
